@@ -1,0 +1,521 @@
+CRIME,Case_Reported,Case_Refused,True_case,Adult_M,Adult_F,Age(14-17)_M,Age(14-17)_F,Under 17_M,Under 17_F,No. of Victims(Killed),No. of Victims(G.B.H),Location,Year
+Murder,10.0,2.0,8.0,12.0,1.0,1.0,,,,14.0,,AREA-A LION BUILDING,2015
+Manslaughter,1.0,,1.0,1.0,,,,,,1.0,,AREA-A LION BUILDING,2015
+Attempted Murder,2.0,,2.0,3.0,1.0,,,,,,1.0,AREA-A LION BUILDING,2015
+Suicide,1.0,,1.0,,,,,,,3.0,,AREA-A LION BUILDING,2015
+Attempted Suicide,1.0,,1.0,1.0,,,,,,,,AREA-A LION BUILDING,2015
+Grievous Harm and Wounding,278.0,27.0,251.0,280.0,76.0,16.0,4.0,1.0,1.0,,50.0,AREA-A LION BUILDING,2015
+Assaults,600.0,50.0,550.0,420.0,90.0,18.0,5.0,1.0,1.0,,51.0,AREA-A LION BUILDING,2015
+Child stealing,15.0,1.0,14.0,15.0,2.0,1.0,,,,,,AREA-A LION BUILDING,2015
+Slave Dealing,2.0,1.0,1.0,3.0,,,,,,,,AREA-A LION BUILDING,2015
+Rape and Incident Assault,40.0,3.0,37.0,45.0,12.0,3.0,,,,,,AREA-A LION BUILDING,2015
+Kidnapping,8.0,2.0,6.0,14.0,1.0,,,,,,,AREA-A LION BUILDING,2015
+Unnatural Offences,15.0,2.0,13.0,10.0,3.0,1.0,1.0,1.0,,,,AREA-A LION BUILDING,2015
+Other Offences,200.0,24.0,176.0,135.0,30.0,5.0,1.0,1.0,,,,AREA-A LION BUILDING,2015
+Armed Robbery,5.0,,5.0,15.0,2.0,1.0,,,,4.0,3.0,AREA-A LION BUILDING,2015
+Demanding With Menance,9.0,1.0,8.0,22.0,2.0,1.0,,,,,1.0,AREA-A LION BUILDING,2015
+Theft and other Stealing,619.0,50.0,569.0,500.0,106.0,14.0,1.0,,,,14.0,AREA-A LION BUILDING,2015
+Burglary,56.0,6.0,50.0,70.0,18.0,1.0,3.0,,,,2.0,AREA-A LION BUILDING,2015
+House Breaking,37.0,7.0,30.0,50.0,5.0,1.0,,,,,2.0,AREA-A LION BUILDING,2015
+Store Breaking,30.0,2.0,28.0,35.0,5.0,1.0,,,,,1.0,AREA-A LION BUILDING,2015
+"False Pretences, Cheating",301.0,20.0,281.0,600.0,40.0,5.0,1.0,,,,5.0,AREA-A LION BUILDING,2015
+Forgery,30.0,5.0,25.0,30.0,7.0,1.0,,,,,,AREA-A LION BUILDING,2015
+Receiving Stolen Property,43.0,1.0,42.0,40.0,1.0,,,,,,,AREA-A LION BUILDING,2015
+Unlawful Possession,73.0,3.0,70.0,50.0,41.0,2.0,1.0,,,,4.0,AREA-A LION BUILDING,2015
+Arson,15.0,3.0,12.0,12.0,3.0,,,,,,3.0,AREA-A LION BUILDING,2015
+Other Offences,160.0,11.0,149.0,129.0,23.0,7.0,3.0,1.0,,,10.0,AREA-A LION BUILDING,2015
+Forgery of Currency Notes,1.0,,1.0,1.0,,,,,,,,AREA-A LION BUILDING,2015
+Coining Offences,1.0,,1.0,1.0,,,,,,,,AREA-A LION BUILDING,2015
+Gambling,4.0,,4.0,5.0,1.0,,,,,,2.0,AREA-A LION BUILDING,2015
+Breach of Public Peace,230.0,26.0,204.0,244.0,216.0,32.0,5.0,8.0,,,25.0,AREA-A LION BUILDING,2015
+Perjury,65.0,2.0,63.0,40.0,8.0,,,,,,,AREA-A LION BUILDING,2015
+Bribery and Corruption,,,,,,,,,,,,AREA-A LION BUILDING,2015
+Escape from Lawful Custody,2.0,,2.0,5.0,,,,,,,,AREA-A LION BUILDING,2015
+Other Offences,190.0,13.0,177.0,88.0,15.0,6.0,1.0,1.0,,,2.0,AREA-A LION BUILDING,2015
+Offences Against Traffic Acts,20.0,2.0,18.0,30.0,8.0,1.0,,,,,5.0,AREA-A LION BUILDING,2015
+Offences Against Township Acts,,,,,,,,,,,,AREA-A LION BUILDING,2015
+Offences Against Liquor Acts,,,,,,,,,,,,AREA-A LION BUILDING,2015
+Offences Against Dog Acts,,,,,,,,,,,,AREA-A LION BUILDING,2015
+Offences Against Fire Arms Acts,,,,,,,,,,,,AREA-A LION BUILDING,2015
+Narcotics,1.0,,1.0,1.0,1.0,,,,,,,AREA-A LION BUILDING,2015
+Other Offences,,,,,,,,,,,,AREA-A LION BUILDING,2015
+Murder,15.0,1.0,14.0,20.0,2.0,1.0,,,,16.0,,AREA-B APAPA,2015
+Manslaughter,1.0,,1.0,1.0,1.0,,,,,1.0,,AREA-B APAPA,2015
+Attempted Murder,7.0,1.0,6.0,7.0,1.0,,,,,,1.0,AREA-B APAPA,2015
+Suicide,5.0,1.0,4.0,,,,,,,4.0,,AREA-B APAPA,2015
+Attempted Suicide,1.0,,1.0,1.0,1.0,,,,,,,AREA-B APAPA,2015
+Grievous Harm and Wounding,370.0,40.0,330.0,261.0,28.0,5.0,4.0,1.0,1.0,,49.0,AREA-B APAPA,2015
+Assaults,432.0,48.0,384.0,208.0,182.0,22.0,7.0,1.0,1.0,,44.0,AREA-B APAPA,2015
+Child stealing,18.0,2.0,16.0,15.0,2.0,1.0,,,,,,AREA-B APAPA,2015
+Slave Dealing,3.0,,3.0,4.0,1.0,,,,,,,AREA-B APAPA,2015
+Rape and Incident Assault,73.0,3.0,70.0,70.0,8.0,3.0,1.0,1.0,,,1.0,AREA-B APAPA,2015
+Kidnapping,15.0,2.0,13.0,15.0,2.0,,,,,,,AREA-B APAPA,2015
+Unnatural Offences,23.0,2.0,21.0,16.0,2.0,1.0,1.0,1.0,1.0,,,AREA-B APAPA,2015
+Other Offences,200.0,29.0,171.0,130.0,30.0,11.0,1.0,1.0,,,,AREA-B APAPA,2015
+Armed Robbery,8.0,,8.0,20.0,4.0,1.0,,,,3.0,4.0,AREA-B APAPA,2015
+Demanding With Menance,10.0,2.0,8.0,16.0,5.0,,,,,,,AREA-B APAPA,2015
+Theft and other Stealing,600.0,20.0,580.0,400.0,100.0,10.0,1.0,,,,10.0,AREA-B APAPA,2015
+Burglary,60.0,,60.0,70.0,50.0,4.0,7.0,,,,,AREA-B APAPA,2015
+House Breaking,80.0,5.0,75.0,40.0,10.0,3.0,,,,,2.0,AREA-B APAPA,2015
+Store Breaking,64.0,4.0,60.0,70.0,5.0,1.0,,,,,1.0,AREA-B APAPA,2015
+"False Pretences, Cheating",359.0,34.0,325.0,504.0,45.0,10.0,1.0,,,,5.0,AREA-B APAPA,2015
+Forgery,58.0,6.0,52.0,45.0,5.0,2.0,1.0,,,,,AREA-B APAPA,2015
+Receiving Stolen Property,55.0,2.0,53.0,46.0,9.0,,,,,,,AREA-B APAPA,2015
+Unlawful Possession,90.0,5.0,85.0,40.0,50.0,5.0,,,,,5.0,AREA-B APAPA,2015
+Arson,54.0,4.0,50.0,36.0,4.0,,,,,1.0,10.0,AREA-B APAPA,2015
+Other Offences,229.0,15.0,214.0,130.0,16.0,10.0,5.0,4.0,,,8.0,AREA-B APAPA,2015
+Forgery of Currency Notes,5.0,3.0,2.0,8.0,1.0,,,,,,,AREA-B APAPA,2015
+Coining Offences,2.0,1.0,1.0,2.0,,,,,,,,AREA-B APAPA,2015
+Gambling,10.0,,10.0,12.0,2.0,,,,,,5.0,AREA-B APAPA,2015
+Breach of Public Peace,278.0,28.0,250.0,350.0,300.0,40.0,16.0,5.0,,,15.0,AREA-B APAPA,2015
+Perjury,90.0,4.0,86.0,50.0,1.0,,,,,,,AREA-B APAPA,2015
+Bribery and Corruption,,,,,,,,,,,,AREA-B APAPA,2015
+Escape from Lawful Custody,6.0,1.0,5.0,6.0,7.0,1.0,,,,,,AREA-B APAPA,2015
+Other Offences,204.0,24.0,180.0,249.0,15.0,8.0,1.0,2.0,,1.0,3.0,AREA-B APAPA,2015
+Offences Against Traffic Acts,45.0,5.0,40.0,55.0,12.0,5.0,,,,1.0,6.0,AREA-B APAPA,2015
+Offences Against Township Acts,,,,,,,,,,,,AREA-B APAPA,2015
+Offences Against Liquor Acts,,,,,,,,,,,,AREA-B APAPA,2015
+Offences Against Dog Acts,,,,,,,,,,,,AREA-B APAPA,2015
+Offences Against Fire Arms Acts,1.0,,1.0,1.0,,,,,,,,AREA-B APAPA,2015
+Narcotics,1.0,,1.0,1.0,1.0,,,,,,,AREA-B APAPA,2015
+Other Offences,,,,,,,,,,,,AREA-B APAPA,2015
+Murder,15.0,2.0,13.0,18.0,4.0,1.0,,,,20.0,,AREA-C SURULERE,2015
+Manslaughter,1.0,,1.0,1.0,,,,,,1.0,,AREA-C SURULERE,2015
+Attempted Murder,2.0,,2.0,3.0,2.0,,,,,,2.0,AREA-C SURULERE,2015
+Suicide,5.0,,5.0,,,,,,,5.0,,AREA-C SURULERE,2015
+Attempted Suicide,1.0,,1.0,1.0,1.0,,,,,,,AREA-C SURULERE,2015
+Grievous Harm and Wounding,500.0,40.0,460.0,200.0,80.0,10.0,8.0,2.0,1.0,,60.0,AREA-C SURULERE,2015
+Assaults,630.0,50.0,580.0,400.0,100.0,25.0,8.0,1.0,1.0,,90.0,AREA-C SURULERE,2015
+Child stealing,25.0,5.0,20.0,30.0,1.0,2.0,,,,,,AREA-C SURULERE,2015
+Slave Dealing,5.0,1.0,4.0,6.0,1.0,,,,,,,AREA-C SURULERE,2015
+Rape and Incident Assault,50.0,8.0,42.0,70.0,8.0,5.0,,,,,,AREA-C SURULERE,2015
+Kidnapping,13.0,3.0,10.0,20.0,4.0,,,,,,,AREA-C SURULERE,2015
+Unnatural Offences,20.0,5.0,15.0,14.0,5.0,2.0,,,,,,AREA-C SURULERE,2015
+Other Offences,300.0,40.0,260.0,200.0,50.0,5.0,1.0,1.0,1.0,,,AREA-C SURULERE,2015
+Armed Robbery,8.0,1.0,7.0,30.0,7.0,1.0,1.0,,,10.0,5.0,AREA-C SURULERE,2015
+Demanding With Menance,20.0,4.0,16.0,40.0,5.0,1.0,,,,,,AREA-C SURULERE,2015
+Theft and other Stealing,750.0,48.0,702.0,600.0,110.0,20.0,1.0,,,,23.0,AREA-C SURULERE,2015
+Burglary,140.0,30.0,110.0,120.0,90.0,3.0,10.0,,,,5.0,AREA-C SURULERE,2015
+House Breaking,60.0,5.0,55.0,60.0,8.0,2.0,,,,,4.0,AREA-C SURULERE,2015
+Store Breaking,40.0,7.0,33.0,50.0,10.0,1.0,,,,,1.0,AREA-C SURULERE,2015
+"False Pretences, Cheating",400.0,40.0,360.0,500.0,80.0,8.0,1.0,,,,10.0,AREA-C SURULERE,2015
+Forgery,40.0,3.0,37.0,30.0,11.0,3.0,1.0,,,,,AREA-C SURULERE,2015
+Receiving Stolen Property,65.0,,65.0,45.0,5.0,,,,,,,AREA-C SURULERE,2015
+Unlawful Possession,84.0,10.0,74.0,60.0,30.0,4.0,1.0,,,,3.0,AREA-C SURULERE,2015
+Arson,20.0,2.0,18.0,20.0,3.0,,,,,1.0,6.0,AREA-C SURULERE,2015
+Other Offences,170.0,15.0,155.0,100.0,50.0,10.0,5.0,3.0,,,10.0,AREA-C SURULERE,2015
+Forgery of Currency Notes,1.0,,1.0,1.0,,,,,,,,AREA-C SURULERE,2015
+Coining Offences,2.0,1.0,1.0,1.0,1.0,,,,,,,AREA-C SURULERE,2015
+Gambling,5.0,,5.0,10.0,1.0,,,,,,4.0,AREA-C SURULERE,2015
+Breach of Public Peace,200.0,22.0,178.0,300.0,200.0,70.0,10.0,7.0,,,20.0,AREA-C SURULERE,2015
+Perjury,70.0,,70.0,60.0,10.0,,,,,,,AREA-C SURULERE,2015
+Bribery and Corruption,1.0,,1.0,1.0,,,,,,,,AREA-C SURULERE,2015
+Escape from Lawful Custody,,,,,,,,,,,,AREA-C SURULERE,2015
+Other Offences,110.0,10.0,100.0,70.0,15.0,4.0,2.0,2.0,,2.0,,AREA-C SURULERE,2015
+Offences Against Traffic Acts,30.0,5.0,25.0,30.0,20.0,4.0,,,,,10.0,AREA-C SURULERE,2015
+Offences Against Township Acts,,,,,,,,,,,,AREA-C SURULERE,2015
+Offences Against Liquor Acts,,,,,,,,,,,,AREA-C SURULERE,2015
+Offences Against Dog Acts,,,,,,,,,,,,AREA-C SURULERE,2015
+Offences Against Fire Arms Acts,,,,,,,,,,,,AREA-C SURULERE,2015
+Narcotics,,,,,,,,,,,,AREA-C SURULERE,2015
+Other Offences,,,,,,,,,,,,AREA-C SURULERE,2015
+Murder,47.0,4.0,43.0,54.0,5.0,1.0,,,,43.0,,AREA-D MUSHIN,2015
+Manslaughter,,,,,,,,,,,,AREA-D MUSHIN,2015
+Attempted Murder,15.0,,15.0,16.0,3.0,,,,,,4.0,AREA-D MUSHIN,2015
+Suicide,10.0,,10.0,,,,,,,10.0,,AREA-D MUSHIN,2015
+Attempted Suicide,4.0,,4.0,4.0,1.0,,,,,,,AREA-D MUSHIN,2015
+Grievous Harm and Wounding,1110.0,85.0,1025.0,900.0,60.0,20.0,15.0,3.0,2.0,,150.0,AREA-D MUSHIN,2015
+Assaults,2000.0,140.0,1860.0,1350.0,270.0,30.0,20.0,3.0,3.0,,160.0,AREA-D MUSHIN,2015
+Child stealing,65.0,5.0,60.0,70.0,6.0,4.0,,,,,,AREA-D MUSHIN,2015
+Slave Dealing,15.0,2.0,13.0,16.0,,,,,,,,AREA-D MUSHIN,2015
+Rape and Incident Assault,120.0,16.0,104.0,128.0,56.0,4.0,,,,,,AREA-D MUSHIN,2015
+Kidnapping,10.0,2.0,8.0,15.0,5.0,,,,,,,AREA-D MUSHIN,2015
+Unnatural Offences,60.0,5.0,55.0,50.0,70.0,1.0,1.0,1.0,,,,AREA-D MUSHIN,2015
+Other Offences,580.0,60.0,520.0,400.0,30.0,15.0,3.0,2.0,,,,AREA-D MUSHIN,2015
+Armed Robbery,25.0,,25.0,100.0,3.0,2.0,,,,20.0,15.0,AREA-D MUSHIN,2015
+Demanding With Menance,40.0,5.0,35.0,60.0,10.0,3.0,,,,,,AREA-D MUSHIN,2015
+Theft and other Stealing,2595.0,150.0,2445.0,1060.0,120.0,24.0,4.0,,,,60.0,AREA-D MUSHIN,2015
+Burglary,270.0,15.0,255.0,210.0,250.0,5.0,10.0,,,,5.0,AREA-D MUSHIN,2015
+House Breaking,160.0,20.0,140.0,120.0,10.0,2.0,,,,,8.0,AREA-D MUSHIN,2015
+Store Breaking,90.0,6.0,84.0,92.0,8.0,2.0,,,,,1.0,AREA-D MUSHIN,2015
+"False Pretences, Cheating",1150.0,100.0,1050.0,1800.0,150.0,12.0,5.0,,,,20.0,AREA-D MUSHIN,2015
+Forgery,90.0,4.0,86.0,80.0,20.0,3.0,,,,,,AREA-D MUSHIN,2015
+Receiving Stolen Property,170.0,,170.0,100.0,15.0,,,,,,,AREA-D MUSHIN,2015
+Unlawful Possession,300.0,10.0,290.0,240.0,170.0,6.0,1.0,,,,8.0,AREA-D MUSHIN,2015
+Arson,50.0,2.0,48.0,30.0,8.0,,,,,,14.0,AREA-D MUSHIN,2015
+Other Offences,490.0,50.0,440.0,293.0,120.0,40.0,10.0,3.0,,,30.0,AREA-D MUSHIN,2015
+Forgery of Currency Notes,2.0,,2.0,2.0,,,,,,,,AREA-D MUSHIN,2015
+Coining Offences,2.0,1.0,1.0,1.0,,,,,,,,AREA-D MUSHIN,2015
+Gambling,25.0,,25.0,26.0,2.0,,,,,,7.0,AREA-D MUSHIN,2015
+Breach of Public Peace,600.0,80.0,520.0,1300.0,820.0,100.0,20.0,10.0,,,40.0,AREA-D MUSHIN,2015
+Perjury,70.0,,70.0,60.0,10.0,,,,,,,AREA-D MUSHIN,2015
+Bribery and Corruption,1.0,,1.0,1.0,1.0,,,,,,,AREA-D MUSHIN,2015
+Escape from Lawful Custody,20.0,1.0,19.0,20.0,10.0,1.0,,,,1.0,2.0,AREA-D MUSHIN,2015
+Other Offences,240.0,40.0,200.0,150.0,10.0,5.0,5.0,1.0,,1.0,5.0,AREA-D MUSHIN,2015
+Offences Against Traffic Acts,90.0,,90.0,60.0,3.0,,,,,,15.0,AREA-D MUSHIN,2015
+Offences Against Township Acts,,,,,,,,,,,,AREA-D MUSHIN,2015
+Offences Against Liquor Acts,,,,,,,,,,,,AREA-D MUSHIN,2015
+Offences Against Dog Acts,,,,,,,,,,,,AREA-D MUSHIN,2015
+Offences Against Fire Arms Acts,1.0,,1.0,1.0,,,,,,,,AREA-D MUSHIN,2015
+Narcotics,1.0,,1.0,1.0,1.0,,,,,,,AREA-D MUSHIN,2015
+Other Offences,2.0,,2.0,2.0,,,,,,,,AREA-D MUSHIN,2015
+Murder,16.0,,16.0,20.0,5.0,,,,,16.0,,AREA-E FESTAC,2015
+Manslaughter,,,,,,,,,,,,AREA-E FESTAC,2015
+Attempted Murder,4.0,,4.0,4.0,1.0,1.0,,,,,,AREA-E FESTAC,2015
+Suicide,2.0,,2.0,,,,,,,2.0,,AREA-E FESTAC,2015
+Attempted Suicide,1.0,,1.0,1.0,,,,,,,,AREA-E FESTAC,2015
+Grievous Harm and Wounding,300.0,40.0,260.0,320.0,90.0,15.0,5.0,1.0,,,40.0,AREA-E FESTAC,2015
+Assaults,600.0,50.0,550.0,500.0,100.0,25.0,6.0,,,,50.0,AREA-E FESTAC,2015
+Child stealing,10.0,,10.0,10.0,5.0,1.0,,,,,,AREA-E FESTAC,2015
+Slave Dealing,5.0,,5.0,5.0,,,,,,,,AREA-E FESTAC,2015
+Rape and Incident Assault,50.0,3.0,47.0,50.0,20.0,2.0,,,,,,AREA-E FESTAC,2015
+Kidnapping,7.0,2.0,5.0,7.0,,,,,,,,AREA-E FESTAC,2015
+Unnatural Offences,15.0,,15.0,20.0,5.0,4.0,,,,,,AREA-E FESTAC,2015
+Other Offences,160.0,10.0,150.0,100.0,50.0,6.0,,,,,,AREA-E FESTAC,2015
+Armed Robbery,4.0,,4.0,15.0,3.0,1.0,,,,4.0,2.0,AREA-E FESTAC,2015
+Demanding With Menance,10.0,,10.0,10.0,2.0,,,,,,,AREA-E FESTAC,2015
+Theft and other Stealing,850.0,30.0,820.0,1000.0,100.0,10.0,,,,,10.0,AREA-E FESTAC,2015
+Burglary,100.0,4.0,96.0,150.0,50.0,,3.0,,,,,AREA-E FESTAC,2015
+House Breaking,40.0,2.0,38.0,35.0,2.0,,,,,,,AREA-E FESTAC,2015
+Store Breaking,35.0,2.0,33.0,40.0,12.0,,,,,,,AREA-E FESTAC,2015
+"False Pretences, Cheating",600.0,30.0,570.0,800.0,80.0,4.0,,,,,5.0,AREA-E FESTAC,2015
+Forgery,30.0,,30.0,30.0,10.0,,,,,,,AREA-E FESTAC,2015
+Receiving Stolen Property,50.0,,50.0,60.0,5.0,,,,,,,AREA-E FESTAC,2015
+Unlawful Possession,70.0,,70.0,60.0,40.0,,,,,,,AREA-E FESTAC,2015
+Arson,15.0,,15.0,10.0,,,,,,,,AREA-E FESTAC,2015
+Other Offences,150.0,4.0,146.0,15.0,1.0,2.0,,,,,,AREA-E FESTAC,2015
+Forgery of Currency Notes,2.0,1.0,1.0,4.0,,,,,,,,AREA-E FESTAC,2015
+Coining Offences,1.0,,1.0,2.0,,,,,,,,AREA-E FESTAC,2015
+Gambling,10.0,,10.0,15.0,4.0,,,,,,,AREA-E FESTAC,2015
+Breach of Public Peace,200.0,10.0,190.0,300.0,200.0,50.0,5.0,2.0,,,,AREA-E FESTAC,2015
+Perjury,40.0,5.0,35.0,45.0,6.0,4.0,3.0,,,,,AREA-E FESTAC,2015
+Bribery and Corruption,,,,,,,,,,,,AREA-E FESTAC,2015
+Escape from Lawful Custody,2.0,,2.0,3.0,1.0,,,,,,,AREA-E FESTAC,2015
+Other Offences,180.0,5.0,175.0,150.0,10.0,3.0,1.0,1.0,,,,AREA-E FESTAC,2015
+Offences Against Traffic Acts,30.0,,30.0,30.0,4.0,2.0,,,,,,AREA-E FESTAC,2015
+Offences Against Township Acts,,,,,,,,,,,,AREA-E FESTAC,2015
+Offences Against Liquor Acts,,,,,,,,,,,,AREA-E FESTAC,2015
+Offences Against Dog Acts,,,,,,,,,,,,AREA-E FESTAC,2015
+Offences Against Fire Arms Acts,,,,,,,,,,,,AREA-E FESTAC,2015
+Narcotics,,,,,,,,,,,,AREA-E FESTAC,2015
+Other Offences,,,,,,,,,,,,AREA-E FESTAC,2015
+Murder,8.0,,8.0,18.0,,,,,,8.0,,AREA-F IKEJA,2015
+Manslaughter,,,,,,,,,,,,AREA-F IKEJA,2015
+Attempted Murder,2.0,,2.0,3.0,1.0,,,,,,,AREA-F IKEJA,2015
+Suicide,1.0,,1.0,,,,,,,1.0,,AREA-F IKEJA,2015
+Attempted Suicide,1.0,,1.0,,,,,,,,1.0,AREA-F IKEJA,2015
+Grievous Harm and Wounding,210.0,20.0,190.0,150.0,80.0,15.0,5.0,1.0,,,40.0,AREA-F IKEJA,2015
+Assaults,350.0,40.0,310.0,400.0,50.0,10.0,2.0,,,,20.0,AREA-F IKEJA,2015
+Child stealing,7.0,,7.0,3.0,1.0,,,,,,,AREA-F IKEJA,2015
+Slave Dealing,1.0,,1.0,2.0,,,,,,,,AREA-F IKEJA,2015
+Rape and Incident Assault,20.0,1.0,19.0,23.0,10.0,1.0,,,,,,AREA-F IKEJA,2015
+Kidnapping,3.0,1.0,2.0,4.0,,,,,,,,AREA-F IKEJA,2015
+Unnatural Offences,10.0,2.0,8.0,5.0,3.0,1.0,1.0,,1.0,,,AREA-F IKEJA,2015
+Other Offences,80.0,4.0,76.0,80.0,30.0,2.0,,,,,,AREA-F IKEJA,2015
+Armed Robbery,2.0,,2.0,15.0,1.0,,,,,2.0,,AREA-F IKEJA,2015
+Demanding With Menance,5.0,,5.0,6.0,4.0,,1.0,1.0,,,,AREA-F IKEJA,2015
+Theft and other Stealing,600.0,70.0,530.0,600.0,80.0,10.0,,,,,4.0,AREA-F IKEJA,2015
+Burglary,45.0,,45.0,40.0,20.0,,1.0,,,,,AREA-F IKEJA,2015
+House Breaking,20.0,2.0,18.0,20.0,2.0,,,,,,,AREA-F IKEJA,2015
+Store Breaking,15.0,,15.0,20.0,,2.0,1.0,,,,,AREA-F IKEJA,2015
+"False Pretences, Cheating",300.0,30.0,270.0,350.0,30.0,2.0,,,,,,AREA-F IKEJA,2015
+Forgery,10.0,,10.0,7.0,3.0,,,,,,,AREA-F IKEJA,2015
+Receiving Stolen Property,25.0,,25.0,35.0,5.0,,1.0,1.0,1.0,,,AREA-F IKEJA,2015
+Unlawful Possession,40.0,,40.0,30.0,40.0,,,,,,,AREA-F IKEJA,2015
+Arson,3.0,,3.0,2.0,2.0,,,1.0,1.0,,2.0,AREA-F IKEJA,2015
+Other Offences,50.0,2.0,48.0,60.0,5.0,1.0,1.0,,,,,AREA-F IKEJA,2015
+Forgery of Currency Notes,,,,,,,,,,,,AREA-F IKEJA,2015
+Coining Offences,,,,,,,,,,,,AREA-F IKEJA,2015
+Gambling,3.0,,3.0,15.0,1.0,,,,,,,AREA-F IKEJA,2015
+Breach of Public Peace,250.0,5.0,245.0,300.0,250.0,20.0,5.0,2.0,,,,AREA-F IKEJA,2015
+Perjury,20.0,,20.0,20.0,5.0,,1.0,1.0,,,,AREA-F IKEJA,2015
+Bribery and Corruption,,,,,,,,,,,,AREA-F IKEJA,2015
+Escape from Lawful Custody,1.0,,1.0,4.0,2.0,,,,,,,AREA-F IKEJA,2015
+Other Offences,70.0,2.0,68.0,50.0,10.0,2.0,4.0,5.0,6.0,,,AREA-F IKEJA,2015
+Offences Against Traffic Acts,35.0,,35.0,50.0,10.0,12.0,,,,,,AREA-F IKEJA,2015
+Offences Against Township Acts,,,,,,,,,,,,AREA-F IKEJA,2015
+Offences Against Liquor Acts,,,,,,,,,,,,AREA-F IKEJA,2015
+Offences Against Dog Acts,,,,,,,,,,,,AREA-F IKEJA,2015
+Offences Against Fire Arms Acts,,,,,,,,,,,,AREA-F IKEJA,2015
+Narcotics,,,,,,,,,,,,AREA-F IKEJA,2015
+Other Offences,,,,,,,,,,,,AREA-F IKEJA,2015
+Murder,17.0,,17.0,25.0,2.0,,,,,17.0,,AREA-G OGBA,2015
+Manslaughter,,,,,,,,,,,,AREA-G OGBA,2015
+Attempted Murder,2.0,,2.0,4.0,,,,,,,,AREA-G OGBA,2015
+Suicide,2.0,,2.0,,,,,,,2.0,,AREA-G OGBA,2015
+Attempted Suicide,,,,,,,,,,,,AREA-G OGBA,2015
+Grievous Harm and Wounding,230.0,15.0,305.0,400.0,90.0,10.0,2.0,,,,60.0,AREA-G OGBA,2015
+Assaults,500.0,40.0,460.0,300.0,100.0,10.0,1.0,,,,20.0,AREA-G OGBA,2015
+Child stealing,7.0,,7.0,10.0,2.0,1.0,,,,,,AREA-G OGBA,2015
+Slave Dealing,2.0,,2.0,5.0,3.0,1.0,1.0,,,,,AREA-G OGBA,2015
+Rape and Incident Assault,20.0,1.0,19.0,22.0,4.0,2.0,,,,,,AREA-G OGBA,2015
+Kidnapping,4.0,1.0,3.0,8.0,4.0,1.0,,,,,,AREA-G OGBA,2015
+Unnatural Offences,5.0,,5.0,6.0,4.0,1.0,1.0,1.0,2.0,,,AREA-G OGBA,2015
+Other Offences,120.0,4.0,116.0,100.0,30.0,2.0,,,,,,AREA-G OGBA,2015
+Armed Robbery,2.0,,2.0,10.0,2.0,,,,,,,AREA-G OGBA,2015
+Demanding With Menance,6.0,,6.0,20.0,6.0,1.0,1.0,,,,,AREA-G OGBA,2015
+Theft and other Stealing,650.0,20.0,630.0,650.0,120.0,10.0,,2.0,3.0,,6.0,AREA-G OGBA,2015
+Burglary,75.0,,75.0,60.0,10.0,,,,,,,AREA-G OGBA,2015
+House Breaking,30.0,,30.0,20.0,15.0,2.0,1.0,,,,,AREA-G OGBA,2015
+Store Breaking,25.0,,25.0,20.0,10.0,4.0,,,,,,AREA-G OGBA,2015
+"False Pretences, Cheating",300.0,30.0,270.0,400.0,3.0,2.0,1.0,,,,,AREA-G OGBA,2015
+Forgery,20.0,,20.0,17.0,4.0,3.0,,,,,,AREA-G OGBA,2015
+Receiving Stolen Property,20.0,,20.0,30.0,10.0,4.0,,2.0,1.0,,,AREA-G OGBA,2015
+Unlawful Possession,50.0,,50.0,40.0,30.0,10.0,1.0,2.0,1.0,,,AREA-G OGBA,2015
+Arson,6.0,2.0,4.0,5.0,1.0,1.0,,,,,,AREA-G OGBA,2015
+Other Offences,80.0,2.0,78.0,70.0,30.0,5.0,2.0,1.0,3.0,,,AREA-G OGBA,2015
+Forgery of Currency Notes,,,,,,,,,,,,AREA-G OGBA,2015
+Coining Offences,2.0,,2.0,2.0,1.0,,,,,,,AREA-G OGBA,2015
+Gambling,10.0,,10.0,12.0,5.0,1.0,,,,,,AREA-G OGBA,2015
+Breach of Public Peace,100.0,5.0,95.0,200.0,100.0,12.0,10.0,4.0,,,,AREA-G OGBA,2015
+Perjury,70.0,,70.0,80.0,20.0,5.0,6.0,,,,,AREA-G OGBA,2015
+Bribery and Corruption,,,,,,,,,,,,AREA-G OGBA,2015
+Escape from Lawful Custody,1.0,,1.0,4.0,2.0,1.0,,,,,,AREA-G OGBA,2015
+Other Offences,80.0,3.0,77.0,50.0,20.0,5.0,6.0,2.0,3.0,,,AREA-G OGBA,2015
+Offences Against Traffic Acts,10.0,,10.0,15.0,5.0,1.0,,,,,,AREA-G OGBA,2015
+Offences Against Township Acts,,,,,,,,,,,,AREA-G OGBA,2015
+Offences Against Liquor Acts,,,,,,,,,,,,AREA-G OGBA,2015
+Offences Against Dog Acts,,,,,,,,,,,,AREA-G OGBA,2015
+Offences Against Fire Arms Acts,,,,,,,,,,,,AREA-G OGBA,2015
+Narcotics,,,,,,,,,,,,AREA-G OGBA,2015
+Other Offences,,,,,,,,,,,,AREA-G OGBA,2015
+Murder,18.0,,18.0,20.0,5.0,1.0,,,,18.0,,AREA-H OGUDU,2015
+Manslaughter,1.0,,1.0,1.0,,,,,,1.0,,AREA-H OGUDU,2015
+Attempted Murder,4.0,1.0,3.0,4.0,2.0,,,,,,,AREA-H OGUDU,2015
+Suicide,5.0,,5.0,,,,,,,5.0,,AREA-H OGUDU,2015
+Attempted Suicide,1.0,,1.0,1.0,,,,,,,,AREA-H OGUDU,2015
+Grievous Harm and Wounding,400.0,25.0,375.0,310.0,80.0,20.0,10.0,3.0,2.0,,110.0,AREA-H OGUDU,2015
+Assaults,1010.0,60.0,950.0,900.0,140.0,40.0,15.0,3.0,,,100.0,AREA-H OGUDU,2015
+Child stealing,20.0,,20.0,15.0,5.0,3.0,,,,,,AREA-H OGUDU,2015
+Slave Dealing,8.0,1.0,7.0,8.0,,,,,,,,AREA-H OGUDU,2015
+Rape and Incident Assault,70.0,5.0,65.0,80.0,10.0,4.0,,,,,,AREA-H OGUDU,2015
+Kidnapping,10.0,2.0,8.0,20.0,4.0,,,,,,,AREA-H OGUDU,2015
+Unnatural Offences,60.0,7.0,53.0,40.0,5.0,4.0,1.0,,,,,AREA-H OGUDU,2015
+Other Offences,243.0,40.0,203.0,180.0,40.0,5.0,2.0,,,,,AREA-H OGUDU,2015
+Armed Robbery,12.0,,12.0,40.0,10.0,3.0,,,,15.0,8.0,AREA-H OGUDU,2015
+Demanding With Menance,30.0,2.0,28.0,50.0,7.0,,,,,,,AREA-H OGUDU,2015
+Theft and other Stealing,1300.0,68.0,1232.0,1000.0,190.0,30.0,,,,,20.0,AREA-H OGUDU,2015
+Burglary,130.0,5.0,125.0,120.0,50.0,5.0,10.0,,,,5.0,AREA-H OGUDU,2015
+House Breaking,80.0,8.0,72.0,80.0,10.0,4.0,,,,,,AREA-H OGUDU,2015
+Store Breaking,20.0,,20.0,30.0,5.0,,,,,,,AREA-H OGUDU,2015
+"False Pretences, Cheating",380.0,30.0,350.0,450.0,50.0,12.0,,,,,10.0,AREA-H OGUDU,2015
+Forgery,30.0,2.0,28.0,40.0,7.0,,,,,,,AREA-H OGUDU,2015
+Receiving Stolen Property,100.0,,100.0,80.0,10.0,,,,,,,AREA-H OGUDU,2015
+Unlawful Possession,230.0,10.0,220.0,170.0,100.0,3.0,,,,,,AREA-H OGUDU,2015
+Arson,30.0,2.0,28.0,40.0,2.0,,,,,,7.0,AREA-H OGUDU,2015
+Other Offences,260.0,7.0,253.0,200.0,40.0,20.0,7.0,4.0,,,10.0,AREA-H OGUDU,2015
+Forgery of Currency Notes,,,,,,,,,,,,AREA-H OGUDU,2015
+Coining Offences,,,,,,,,,,,,AREA-H OGUDU,2015
+Gambling,10.0,,10.0,10.0,2.0,,,,,,4.0,AREA-H OGUDU,2015
+Breach of Public Peace,290.0,30.0,260.0,295.0,280.0,80.0,20.0,15.0,,,15.0,AREA-H OGUDU,2015
+Perjury,50.0,,50.0,60.0,,,,,,,,AREA-H OGUDU,2015
+Bribery and Corruption,,,,,,,,,,,,AREA-H OGUDU,2015
+Escape from Lawful Custody,8.0,,8.0,10.0,,2.0,,,,,,AREA-H OGUDU,2015
+Other Offences,160.0,30.0,130.0,190.0,30.0,5.0,,,,,,AREA-H OGUDU,2015
+Offences Against Traffic Acts,40.0,2.0,38.0,50.0,6.0,3.0,,,,,8.0,AREA-H OGUDU,2015
+Offences Against Township Acts,,,,,,,,,,,,AREA-H OGUDU,2015
+Offences Against Liquor Acts,,,,,,,,,,,,AREA-H OGUDU,2015
+Offences Against Dog Acts,,,,,,,,,,,,AREA-H OGUDU,2015
+Offences Against Fire Arms Acts,,,,,,,,,,,,AREA-H OGUDU,2015
+Narcotics,1.0,,1.0,2.0,,,,,,,,AREA-H OGUDU,2015
+Other Offences,,,,,,,,,,,,AREA-H OGUDU,2015
+Murder,4.0,,4.0,5.0,4.0,,,,,5.0,,AREA-J ELEMORO,2015
+Manslaughter,,,,,,,,,,,,AREA-J ELEMORO,2015
+Attempted Murder,,,,,,,,,,,,AREA-J ELEMORO,2015
+Suicide,,,,,,,,,,,,AREA-J ELEMORO,2015
+Attempted Suicide,,,,,,,,,,,,AREA-J ELEMORO,2015
+Grievous Harm and Wounding,130.0,3.0,127.0,90.0,50.0,10.0,,7.0,1.0,,9.0,AREA-J ELEMORO,2015
+Assaults,150.0,5.0,145.0,70.0,80.0,2.0,6.0,1.0,,,,AREA-J ELEMORO,2015
+Child stealing,2.0,,2.0,4.0,3.0,,,,,,,AREA-J ELEMORO,2015
+Slave Dealing,,,,,,,,,,,,AREA-J ELEMORO,2015
+Rape and Incident Assault,7.0,,7.0,8.0,4.0,,,,,,,AREA-J ELEMORO,2015
+Kidnapping,2.0,,2.0,5.0,1.0,,,,,,,AREA-J ELEMORO,2015
+Unnatural Offences,3.0,,3.0,4.0,2.0,1.0,3.0,,,,,AREA-J ELEMORO,2015
+Other Offences,35.0,,35.0,25.0,10.0,5.0,1.0,1.0,1.0,,,AREA-J ELEMORO,2015
+Armed Robbery,,,,,,,,,,,,AREA-J ELEMORO,2015
+Demanding With Menance,1.0,,1.0,4.0,3.0,1.0,,,,,,AREA-J ELEMORO,2015
+Theft and other Stealing,150.0,3.0,147.0,90.0,50.0,10.0,12.0,6.0,1.0,,,AREA-J ELEMORO,2015
+Burglary,10.0,,10.0,20.0,5.0,,,,,,,AREA-J ELEMORO,2015
+House Breaking,8.0,,8.0,6.0,3.0,,,,,,,AREA-J ELEMORO,2015
+Store Breaking,2.0,,2.0,3.0,2.0,,,,,,,AREA-J ELEMORO,2015
+"False Pretences, Cheating",100.0,,100.0,60.0,40.0,2.0,,,,,,AREA-J ELEMORO,2015
+Forgery,5.0,,5.0,6.0,3.0,1.0,1.0,,,,,AREA-J ELEMORO,2015
+Receiving Stolen Property,2.0,,2.0,4.0,2.0,1.0,,,,,,AREA-J ELEMORO,2015
+Unlawful Possession,8.0,,8.0,10.0,2.0,1.0,,,,,,AREA-J ELEMORO,2015
+Arson,1.0,,1.0,1.0,1.0,,,,,,,AREA-J ELEMORO,2015
+Other Offences,15.0,,15.0,14.0,4.0,2.0,2.0,1.0,1.0,,,AREA-J ELEMORO,2015
+Forgery of Currency Notes,2.0,,2.0,2.0,1.0,1.0,1.0,,,,,AREA-J ELEMORO,2015
+Coining Offences,,,,,,,,,,,,AREA-J ELEMORO,2015
+Gambling,,,,,,,,,,,,AREA-J ELEMORO,2015
+Breach of Public Peace,15.0,,15.0,10.0,2.0,2.0,1.0,,,,,AREA-J ELEMORO,2015
+Perjury,12.0,,12.0,11.0,3.0,2.0,1.0,,,,,AREA-J ELEMORO,2015
+Bribery and Corruption,,,,,,,,,,,,AREA-J ELEMORO,2015
+Escape from Lawful Custody,,,,,,,,,,,,AREA-J ELEMORO,2015
+Other Offences,30.0,,30.0,25.0,5.0,1.0,1.0,2.0,1.0,,,AREA-J ELEMORO,2015
+Offences Against Traffic Acts,,,,,,,,,,,,AREA-J ELEMORO,2015
+Offences Against Township Acts,,,,,,,,,,,,AREA-J ELEMORO,2015
+Offences Against Liquor Acts,,,,,,,,,,,,AREA-J ELEMORO,2015
+Offences Against Dog Acts,,,,,,,,,,,,AREA-J ELEMORO,2015
+Offences Against Fire Arms Acts,,,,,,,,,,,,AREA-J ELEMORO,2015
+Narcotics,,,,,,,,,,,,AREA-J ELEMORO,2015
+Other Offences,,,,,,,,,,,,AREA-J ELEMORO,2015
+Murder,7.0,,7.0,10.0,4.0,2.0,,,,7.0,,AREA-K MOROGBO,2015
+Manslaughter,,,,,,,,,,,,AREA-K MOROGBO,2015
+Attempted Murder,,,,,,,,,,,,AREA-K MOROGBO,2015
+Suicide,,,,,,,,,,,,AREA-K MOROGBO,2015
+Attempted Suicide,,,,,,,,,,,,AREA-K MOROGBO,2015
+Grievous Harm and Wounding,200.0,10.0,190.0,100.0,40.0,6.0,1.0,1.0,,,25.0,AREA-K MOROGBO,2015
+Assaults,280.0,12.0,268.0,80.0,40.0,50.0,20.0,40.0,15.0,,10.0,AREA-K MOROGBO,2015
+Child stealing,3.0,,3.0,5.0,3.0,,,,,,,AREA-K MOROGBO,2015
+Slave Dealing,2.0,,2.0,4.0,2.0,,,,,,,AREA-K MOROGBO,2015
+Rape and Incident Assault,18.0,,18.0,16.0,4.0,1.0,,,,,,AREA-K MOROGBO,2015
+Kidnapping,4.0,,4.0,6.0,2.0,,,,,,,AREA-K MOROGBO,2015
+Unnatural Offences,5.0,,5.0,4.0,1.0,2.0,1.0,,1.0,,,AREA-K MOROGBO,2015
+Other Offences,80.0,2.0,78.0,60.0,20.0,1.0,2.0,5.0,1.0,,,AREA-K MOROGBO,2015
+Armed Robbery,2.0,,2.0,8.0,2.0,,,,,,,AREA-K MOROGBO,2015
+Demanding With Menance,2.0,,2.0,5.0,2.0,1.0,,,,,,AREA-K MOROGBO,2015
+Theft and other Stealing,350.0,5.0,345.0,350.0,120.0,20.0,10.0,12.0,4.0,,,AREA-K MOROGBO,2015
+Burglary,50.0,,50.0,40.0,30.0,,4.0,,,,,AREA-K MOROGBO,2015
+House Breaking,25.0,,25.0,20.0,,,,,,,,AREA-K MOROGBO,2015
+Store Breaking,9.0,,9.0,8.0,4.0,,,1.0,,,,AREA-K MOROGBO,2015
+"False Pretences, Cheating",250.0,10.0,240.0,140.0,70.0,2.0,4.0,6.0,1.0,,,AREA-K MOROGBO,2015
+Forgery,12.0,,12.0,10.0,4.0,2.0,,,,,,AREA-K MOROGBO,2015
+Receiving Stolen Property,9.0,,9.0,12.0,6.0,1.0,1.0,2.0,,,,AREA-K MOROGBO,2015
+Unlawful Possession,20.0,,20.0,14.0,4.0,3.0,2.0,,,,,AREA-K MOROGBO,2015
+Arson,3.0,,3.0,4.0,2.0,,,1.0,,,2.0,AREA-K MOROGBO,2015
+Other Offences,35.0,,35.0,30.0,8.0,1.0,1.0,2.0,1.0,,5.0,AREA-K MOROGBO,2015
+Forgery of Currency Notes,,,,,,,,,,,,AREA-K MOROGBO,2015
+Coining Offences,,,,,,,,,,,,AREA-K MOROGBO,2015
+Gambling,2.0,,2.0,4.0,2.0,1.0,,,,,,AREA-K MOROGBO,2015
+Breach of Public Peace,60.0,,60.0,100.0,60.0,2.0,10.0,12.0,3.0,,,AREA-K MOROGBO,2015
+Perjury,30.0,,30.0,40.0,20.0,1.0,1.0,,,,,AREA-K MOROGBO,2015
+Bribery and Corruption,,,,,,,,,,,,AREA-K MOROGBO,2015
+Escape from Lawful Custody,,,,,,,,,,,,AREA-K MOROGBO,2015
+Other Offences,30.0,,30.0,30.0,10.0,5.0,2.0,4.0,1.0,,,AREA-K MOROGBO,2015
+Offences Against Traffic Acts,5.0,,5.0,6.0,5.0,1.0,,,,,,AREA-K MOROGBO,2015
+Offences Against Township Acts,,,,,,,,,,,,AREA-K MOROGBO,2015
+Offences Against Liquor Acts,,,,,,,,,,,,AREA-K MOROGBO,2015
+Offences Against Dog Acts,,,,,,,,,,,,AREA-K MOROGBO,2015
+Offences Against Fire Arms Acts,,,,,,,,,,,,AREA-K MOROGBO,2015
+Narcotics,,,,,,,,,,,,AREA-K MOROGBO,2015
+Other Offences,,,,,,,,,,,,AREA-K MOROGBO,2015
+Murder,4.0,,4.0,4.0,2.0,,,,,4.0,,AREA-L ILASHE,2015
+Manslaughter,,,,,,,,,,,,AREA-L ILASHE,2015
+Attempted Murder,,,,,,,,,,,,AREA-L ILASHE,2015
+Suicide,,,,,,,,,,,,AREA-L ILASHE,2015
+Attempted Suicide,,,,,,,,,,,,AREA-L ILASHE,2015
+Grievous Harm and Wounding,100.0,2.0,98.0,70.0,40.0,5.0,6.0,1.0,,,6.0,AREA-L ILASHE,2015
+Assaults,120.0,3.0,117.0,80.0,60.0,10.0,4.0,2.0,,,,AREA-L ILASHE,2015
+Child stealing,1.0,,1.0,2.0,1.0,,,,,,,AREA-L ILASHE,2015
+Slave Dealing,,,,,,,,,,,,AREA-L ILASHE,2015
+Rape and Incident Assault,5.0,,5.0,6.0,2.0,1.0,,,,,,AREA-L ILASHE,2015
+Kidnapping,,,,,,,,,,,,AREA-L ILASHE,2015
+Unnatural Offences,2.0,,2.0,2.0,1.0,1.0,2.0,,,,,AREA-L ILASHE,2015
+Other Offences,25.0,,25.0,20.0,4.0,1.0,1.0,,,,,AREA-L ILASHE,2015
+Armed Robbery,,,,,,,,,,,,AREA-L ILASHE,2015
+Demanding With Menance,1.0,,1.0,2.0,1.0,1.0,,,1.0,,,AREA-L ILASHE,2015
+Theft and other Stealing,250.0,2.0,248.0,200.0,60.0,5.0,1.0,2.0,1.0,,,AREA-L ILASHE,2015
+Burglary,20.0,,20.0,30.0,10.0,5.0,,,,,,AREA-L ILASHE,2015
+House Breaking,7.0,,7.0,4.0,2.0,,,,,,,AREA-L ILASHE,2015
+Store Breaking,4.0,,4.0,3.0,1.0,1.0,,,,,,AREA-L ILASHE,2015
+"False Pretences, Cheating",50.0,,50.0,30.0,20.0,1.0,1.0,,,,,AREA-L ILASHE,2015
+Forgery,3.0,,3.0,4.0,2.0,,,,,,,AREA-L ILASHE,2015
+Receiving Stolen Property,4.0,,4.0,5.0,4.0,1.0,1.0,,,,,AREA-L ILASHE,2015
+Unlawful Possession,12.0,,12.0,10.0,5.0,1.0,,,,,,AREA-L ILASHE,2015
+Arson,2.0,1.0,1.0,2.0,,,,,,,,AREA-L ILASHE,2015
+Other Offences,20.0,,20.0,15.0,6.0,2.0,1.0,4.0,5.0,,,AREA-L ILASHE,2015
+Forgery of Currency Notes,1.0,,1.0,1.0,,,,,,,,AREA-L ILASHE,2015
+Coining Offences,,,,,,,,,,,,AREA-L ILASHE,2015
+Gambling,,,,,,,,,,,,AREA-L ILASHE,2015
+Breach of Public Peace,25.0,,20.0,20.0,10.0,1.0,1.0,,,,,AREA-L ILASHE,2015
+Perjury,10.0,,10.0,8.0,4.0,1.0,,,,,,AREA-L ILASHE,2015
+Bribery and Corruption,,,,,,,,,,,,AREA-L ILASHE,2015
+Escape from Lawful Custody,,,,,,,,,,,,AREA-L ILASHE,2015
+Other Offences,10.0,,10.0,6.0,2.0,1.0,3.0,2.0,1.0,,,AREA-L ILASHE,2015
+Offences Against Traffic Acts,,,,,,,,,,,,AREA-L ILASHE,2015
+Offences Against Township Acts,,,,,,,,,,,,AREA-L ILASHE,2015
+Offences Against Liquor Acts,,,,,,,,,,,,AREA-L ILASHE,2015
+Offences Against Dog Acts,,,,,,,,,,,,AREA-L ILASHE,2015
+Offences Against Fire Arms Acts,,,,,,,,,,,,AREA-L ILASHE,2015
+Narcotics,,,,,,,,,,,,AREA-L ILASHE,2015
+Other Offences,,,,,,,,,,,,AREA-L ILASHE,2015
+Murder,20.0,,20.0,30.0,5.0,,,,,20.0,,AREA-M IDIMU,2015
+Manslaughter,1.0,,1.0,2.0,,,,,,1.0,,AREA-M IDIMU,2015
+Attempted Murder,5.0,,5.0,6.0,,,,,,,,AREA-M IDIMU,2015
+Suicide,3.0,,3.0,,,,,,,3.0,,AREA-M IDIMU,2015
+Attempted Suicide,2.0,,2.0,2.0,1.0,,,,,,,AREA-M IDIMU,2015
+Grievous Harm and Wounding,500.0,40.0,460.0,300.0,80.0,30.0,8.0,2.0,3.0,,60.0,AREA-M IDIMU,2015
+Assaults,760.0,50.0,710.0,600.0,90.0,40.0,9.0,,,,80.0,AREA-M IDIMU,2015
+Child stealing,20.0,2.0,18.0,30.0,4.0,2.0,,,,,,AREA-M IDIMU,2015
+Slave Dealing,3.0,1.0,2.0,4.0,,,,,,,,AREA-M IDIMU,2015
+Rape and Incident Assault,40.0,5.0,35.0,40.0,10.0,3.0,,,,,,AREA-M IDIMU,2015
+Kidnapping,10.0,4.0,6.0,30.0,2.0,,,,,,,AREA-M IDIMU,2015
+Unnatural Offences,20.0,4.0,16.0,20.0,3.0,,,,,,,AREA-M IDIMU,2015
+Other Offences,230.0,35.0,195.0,250.0,20.0,5.0,,,,,,AREA-M IDIMU,2015
+Armed Robbery,8.0,,8.0,30.0,3.0,1.0,,,,7.0,2.0,AREA-M IDIMU,2015
+Demanding With Menance,10.0,1.0,9.0,20.0,4.0,,,,,,,AREA-M IDIMU,2015
+Theft and other Stealing,1055.0,70.0,985.0,1000.0,100.0,10.0,,,,,20.0,AREA-M IDIMU,2015
+Burglary,100.0,3.0,97.0,100.0,50.0,,6.0,,,,5.0,AREA-M IDIMU,2015
+House Breaking,90.0,3.0,87.0,85.0,5.0,,,,,,,AREA-M IDIMU,2015
+Store Breaking,45.0,2.0,43.0,50.0,8.0,,,,,,,AREA-M IDIMU,2015
+"False Pretences, Cheating",300.0,40.0,260.0,400.0,100.0,4.0,,,,,10.0,AREA-M IDIMU,2015
+Forgery,40.0,1.0,39.0,50.0,8.0,,,,,,4.0,AREA-M IDIMU,2015
+Receiving Stolen Property,100.0,,100.0,90.0,,,,,,,,AREA-M IDIMU,2015
+Unlawful Possession,130.0,5.0,125.0,120.0,20.0,1.0,,,,,,AREA-M IDIMU,2015
+Arson,30.0,1.0,29.0,30.0,3.0,,,,,,4.0,AREA-M IDIMU,2015
+Other Offences,300.0,5.0,295.0,300.0,20.0,20.0,3.0,2.0,,,10.0,AREA-M IDIMU,2015
+Forgery of Currency Notes,1.0,,1.0,1.0,,,,,,,,AREA-M IDIMU,2015
+Coining Offences,1.0,,1.0,1.0,,,,,,,,AREA-M IDIMU,2015
+Gambling,7.0,,7.0,7.0,,,,,,,,AREA-M IDIMU,2015
+Breach of Public Peace,410.0,50.0,360.0,425.0,200.0,70.0,50.0,15.0,,,15.0,AREA-M IDIMU,2015
+Perjury,40.0,,40.0,50.0,,,,,,,,AREA-M IDIMU,2015
+Bribery and Corruption,1.0,,1.0,2.0,,,,,,,,AREA-M IDIMU,2015
+Escape from Lawful Custody,10.0,,10.0,5.0,7.0,,,,,,,AREA-M IDIMU,2015
+Other Offences,150.0,10.0,140.0,150.0,30.0,5.0,2.0,,2.0,,5.0,AREA-M IDIMU,2015
+Offences Against Traffic Acts,50.0,2.0,48.0,60.0,7.0,4.0,,,,,7.0,AREA-M IDIMU,2015
+Offences Against Township Acts,,,,,,,,,,,,AREA-M IDIMU,2015
+Offences Against Liquor Acts,,,,,,,,,,,,AREA-M IDIMU,2015
+Offences Against Dog Acts,,,,,,,,,,,,AREA-M IDIMU,2015
+Offences Against Fire Arms Acts,,,,,,,,,,,,AREA-M IDIMU,2015
+Narcotics,,,,,,,,,,,,AREA-M IDIMU,2015
+Other Offences,2.0,,2.0,4.0,,,,,,,,AREA-M IDIMU,2015
+Murder,14.0,,14.0,18.0,5.0,,,,,20.0,,AREA-N IJEDE,2015
+Manslaughter,1.0,,1.0,1.0,,,,,,2.0,,AREA-N IJEDE,2015
+Attempted Murder,6.0,,6.0,5.0,1.0,,,,,,,AREA-N IJEDE,2015
+Suicide,2.0,,2.0,,,,,,,2.0,,AREA-N IJEDE,2015
+Attempted Suicide,1.0,,1.0,1.0,,,,,,,,AREA-N IJEDE,2015
+Grievous Harm and Wounding,430.0,30.0,400.0,200.0,60.0,7.0,2.0,,,,60.0,AREA-N IJEDE,2015
+Assaults,600.0,50.0,550.0,350.0,100.0,15.0,6.0,,,,50.0,AREA-N IJEDE,2015
+Child stealing,30.0,4.0,26.0,25.0,6.0,1.0,,,,,,AREA-N IJEDE,2015
+Slave Dealing,4.0,,4.0,5.0,,,,,,,,AREA-N IJEDE,2015
+Rape and Incident Assault,50.0,5.0,45.0,60.0,10.0,2.0,,,,,1.0,AREA-N IJEDE,2015
+Kidnapping,80.0,5.0,75.0,80.0,6.0,,,,,,,AREA-N IJEDE,2015
+Unnatural Offences,30.0,2.0,28.0,25.0,2.0,,,,,,,AREA-N IJEDE,2015
+Other Offences,370.0,25.0,345.0,280.0,40.0,8.0,,,,,,AREA-N IJEDE,2015
+Armed Robbery,12.0,,12.0,20.0,4.0,2.0,,,,10.0,8.0,AREA-N IJEDE,2015
+Demanding With Menance,15.0,2.0,13.0,20.0,6.0,,,,,,,AREA-N IJEDE,2015
+Theft and other Stealing,850.0,70.0,780.0,1000.0,100.0,30.0,,,,,30.0,AREA-N IJEDE,2015
+Burglary,100.0,3.0,97.0,140.0,20.0,,6.0,,,,,AREA-N IJEDE,2015
+House Breaking,80.0,5.0,75.0,70.0,15.0,,,,,,,AREA-N IJEDE,2015
+Store Breaking,55.0,1.0,54.0,60.0,5.0,,,,,,,AREA-N IJEDE,2015
+"False Pretences, Cheating",400.0,30.0,370.0,500.0,30.0,4.0,,,,,5.0,AREA-N IJEDE,2015
+Forgery,50.0,,50.0,50.0,15.0,,,,,,,AREA-N IJEDE,2015
+Receiving Stolen Property,90.0,,90.0,100.0,,,,,,,,AREA-N IJEDE,2015
+Unlawful Possession,110.0,5.0,105.0,80.0,40.0,3.0,,,,,,AREA-N IJEDE,2015
+Arson,30.0,1.0,29.0,15.0,,,,,,,4.0,AREA-N IJEDE,2015
+Other Offences,250.0,4.0,246.0,250.0,10.0,10.0,1.0,,,,5.0,AREA-N IJEDE,2015
+Forgery of Currency Notes,1.0,,1.0,1.0,,,,,,,,AREA-N IJEDE,2015
+Coining Offences,,,,,,,,,,,,AREA-N IJEDE,2015
+Gambling,10.0,,10.0,10.0,,,,,,,4.0,AREA-N IJEDE,2015
+Breach of Public Peace,450.0,30.0,420.0,500.0,200.0,40.0,30.0,10.0,,,10.0,AREA-N IJEDE,2015
+Perjury,20.0,,20.0,25.0,,,,,,,,AREA-N IJEDE,2015
+Bribery and Corruption,1.0,,1.0,3.0,,,,,,,,AREA-N IJEDE,2015
+Escape from Lawful Custody,3.0,,3.0,3.0,2.0,,,,,,,AREA-N IJEDE,2015
+Other Offences,200.0,10.0,190.0,150.0,50.0,2.0,,1.0,1.0,,,AREA-N IJEDE,2015
+Offences Against Traffic Acts,30.0,1.0,29.0,40.0,3.0,1.0,,,,,10.0,AREA-N IJEDE,2015
+Offences Against Township Acts,,,,,,,,,,,,AREA-N IJEDE,2015
+Offences Against Liquor Acts,,,,,,,,,,,,AREA-N IJEDE,2015
+Offences Against Dog Acts,,,,,,,,,,,,AREA-N IJEDE,2015
+Offences Against Fire Arms Acts,,,,,,,,,,,,AREA-N IJEDE,2015
+Narcotics,,,,,,,,,,,,AREA-N IJEDE,2015
+Other Offences,2.0,,2.0,2.0,,,,,,,,AREA-N IJEDE,2015
